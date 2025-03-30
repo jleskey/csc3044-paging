@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Compiled binary files
+out/
+
+# Working "numbers" file
+numbers
+
+# Locks
+.~lock.*
