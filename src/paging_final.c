@@ -8,8 +8,8 @@
 
 	Modified 3/2025 by Deborah Wilson
 
-	NAME:
-	DATE:
+	NAME: Joseph Leskey
+	DATE: 30 March 2025
 */
 
 #include <stdio.h>
@@ -20,12 +20,10 @@
 #include <string.h>
 #include <errno.h>
 #include <limits.h>
-
-#define FALSE 0x0
-#define TRUE 0x1
+#include <stdbool.h>
 
 // Verbose display of output to diagnose problems
-#define DEBUG_MODE FALSE
+#define DEBUG_MODE false
 
 // Bit field for the counters
 struct bit_entry

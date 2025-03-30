@@ -1,6 +1,6 @@
 /*
-	NAME:
-	DATE:
+	NAME: Joseph Leskey
+	DATE: 30 March 2025
 */
 
 #include <stdio.h>
