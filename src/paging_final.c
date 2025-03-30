@@ -147,9 +147,10 @@ int main(int argc, char *argv[])
 
 	if (argc < 3)
 	{
-		printf("Usage: %s number_page_frames page_reference_file " +
-				   "[virt_mem_multiplier = 10]\n",
-			   argv[0]);
+		printf(
+			"Usage: %s number_page_frames page_reference_file "
+			"[virt_mem_multiplier = 10]\n",
+			argv[0]);
 		exit(EXIT_FAILURE);
 	}
 
